@@ -47,7 +47,7 @@
     "react-native-webview-bridge": "^0.40.1",
     "react-native-youtube": "^2.0.1",
     "react-native-zss-rich-text-editor": "^1.1.0",
-    "react-navigation": "^4.4.0"
+    "react-navigation": "^5.0.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.10.3",
